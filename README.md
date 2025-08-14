@@ -10,10 +10,7 @@ project-folder/
 │   ├── images/                                                         
 │   │   └── example.png                                                         
 │   └── icons/                                                            
-│       └── favicon.ico                                                         
-│                                                                           
-└── libs/               # External libraries (if any)                        
-    └── example-lib.js                                                   
+│       └── favicon.ico                                                                                                         
 
 
 # Project Title
