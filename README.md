@@ -13,8 +13,6 @@ project-folder/
 │       └── favicon.ico                                                                                                         
 
 
-# Project Title
-
 ## How to Run Locally
 
 ### Option 1: Run a Local Server (Recommended)
